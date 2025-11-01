@@ -124,7 +124,7 @@
     right: 0;
 }
 body{
-    background-image: url("./images/bg5.jpg");
+    background-image: url("../images/bg5.jpg");
 }
 h1{
     text-align: center;
@@ -133,4 +133,5 @@ h1{
     font-size: 30px;
 
 }
+
 
